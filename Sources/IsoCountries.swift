@@ -250,7 +250,7 @@ public class IsoCountries {
         IsoCountryInfo(name: "Somalia", numeric: "706", alpha2: "SO", alpha3: "SOM", calling: "+252", currency: "SOS", continent: "AF", fractionDigits: 2),
         IsoCountryInfo(name: "South Africa", numeric: "710", alpha2: "ZA", alpha3: "ZAF", calling: "+27", currency: "ZAR", continent: "AF", fractionDigits: 2),
         IsoCountryInfo(name: "South Georgia and the South Sandwich Islands", numeric: "239", alpha2: "GS", alpha3: "SGS", calling: "+500", currency: "GBP", continent: "AN", fractionDigits: 2),
-        IsoCountryInfo(name: "South Sudan", numeric: "728", alpha2: "SS", alpha3: "SSD", calling: "+211", currency: "SSP", continent: "", fractionDigits: 2),
+        IsoCountryInfo(name: "South Sudan", numeric: "728", alpha2: "SS", alpha3: "SSD", calling: "+211", currency: "SSP", continent: "AF", fractionDigits: 2),
         IsoCountryInfo(name: "Spain", numeric: "724", alpha2: "ES", alpha3: "ESP", calling: "+34", currency: "EUR", continent: "EU", fractionDigits: 2),
         IsoCountryInfo(name: "Sri Lanka", numeric: "144", alpha2: "LK", alpha3: "LKA", calling: "+94", currency: "LKR", continent: "AS", fractionDigits: 2),
         IsoCountryInfo(name: "Sudan", numeric: "729", alpha2: "SD", alpha3: "SDN", calling: "+249", currency: "SDG", continent: "AF", fractionDigits: 2),
